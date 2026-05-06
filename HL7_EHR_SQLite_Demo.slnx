@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TestEHRDB/TestEHRDB.csproj" />
+  <Project Path="HL7_EHR_SQLite_Demo.csproj" />
+</Solution>
